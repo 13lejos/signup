@@ -10,7 +10,6 @@ main{
 /* left section of site includes bg image overlay, and text*/
 .leftSection{
     display: flex;
-    outline: purple solid 1px;
     width: 35vw;
 }
 .leftSection{
