@@ -5,7 +5,6 @@ body{
 
 main{
     display: flex;
-    max-height: 100vh;
 }
 /* left section of site includes bg image overlay, and text*/
 .leftSection{
